@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Full-Stack Developer**, building web applications with **Flask** and **Laravel**
+- 🔭 Recently working as a **Full-Stack Developer**, building web applications with **Flask** and **Laravel**
 - 🌱 Actively leveling up in **Machine Learning / AI**, working with Python's ML ecosystem
 - 🎯 **Goal:** Transitioning into an **AI/ML Engineer** role — combining my full-stack background with data-driven systems
 - 💬 Ask me about backend architecture, REST APIs, or my latest ML experiment
