@@ -17,7 +17,7 @@
 
 - 🔭 Recently working as a **Full-Stack Developer**
 - 🌱 Actively leveling up in **Machine Learning / AI**, working with Python's ML ecosystem
-- 🎯 **Goal:** Transitioning into an **AI/ML Engineer** role — combining my full-stack background with data-driven systems
+- 🎯 **Goal:** Transitioning into an **AI/ML Engineer** role, combining my full-stack background with data-driven systems
 - 💬 Ask me about backend architecture, REST APIs, or my latest ML experiment
 - ⚡ Fun fact: I like shipping full-stack apps *and* training models in the same week
 
