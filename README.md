@@ -54,7 +54,7 @@
 | **[Automated Resume Screening with Predictive Analytics](https://github.com/eptals2/https://github.com/eptals2/ARSwithPredictiveAnalytics)** | An automated resume screening system integrated with Predictive Analytics using Hybrid NLP and ML models | `Laravel` `PHP` `MySQL` |
 | **[Gold Scalping Bot](https://github.com/eptals2/https://github.com/eptals2/TradingBot-Gold-Scalping)** | An AI/ML model for automating GOLD scalping | `Python` `Pandas` `TensorFlow` |
 | **[Mobile Bill Reader using OCR and TTS](https://github.com/eptals2/https://github.com/eptals2/Bill-Reader-with-OCR-and-TTS)** | A mobile app designed to scan bills and produce an AI audio output for partially blind persons | `OCR` `TTS` `Flutter` |
-
+| **[Project Sigma](https://github.com/eptals2/https://github.com/eptals2/ProjectSigma_Projects-API) | A mobile app designed to scan bills and produce an AI audio output for partially blind persons | `Laravel` `PHP` `Nuxt` |
 ---
 
 ### 📈 Currently Learning
