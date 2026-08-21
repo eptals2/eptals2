@@ -1,267 +1,94 @@
-👋 Hi, I'm Ephraim Talaba
+<h1 align="center">Hi, I'm Ephraim Talaba 👋</h1>
+<h3 align="center">Full-Stack Developer · Transitioning into AI/ML Engineering</h3>
 
-Full-stack Developer | A.I./M.L. Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+Flask+%26+Laravel;Diving+deep+into+Machine+Learning;Turning+data+into+decisions;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
+</p>
 
-I build practical software systems that combine **Python, Machine Learning, AI, backend development, and data-driven solutions**.
-
-I'm currently focused on building production-oriented AI/ML projects and strengthening my skills in **machine learning engineering, predictive analytics, NLP, computer vision, and AI-powered applications**.
-
-> 🚀 **My goal:** Build intelligent systems that solve real-world problems — not just machine learning models that work in notebooks.
-
----
-
-## 🧑‍💻 About Me
-
-* 🤖 Aspiring **AI/ML Engineer**
-* 🐍 Strong interest in **Python & Machine Learning**
-* 🧠 Experience building **predictive analytics and NLP systems**
-* ⚙️ Backend development experience with **Flask, Laravel, REST APIs, and databases**
-* 📊 Interested in **ML model development, evaluation, deployment, and MLOps**
-* 🌐 Full-stack development experience
-* 📱 Experience building mobile applications with **Flutter**
-* 🔎 Currently building projects that demonstrate practical AI/ML engineering skills
-* 💼 Open to opportunities in **AI Engineering, Machine Learning Engineering, Python Development, and Backend Development**
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+### 👨‍💻 About Me
 
-## 🧠 Automated Resume Screening with Predictive Analytics
-
-**AI/ML | NLP | NER | XGBoost | Python | Flask**
-
-An intelligent resume screening system designed to automatically extract candidate information, compare resumes against job requirements, and predict candidate suitability.
-
-### Key Features
-
-* 📄 Resume text extraction using **OCR**
-* 🧠 NLP-based entity extraction using **RoBERTa NER**
-* 🔎 Resume-to-job matching using **TF-IDF and Jaccard Similarity**
-* 📊 Candidate suitability prediction using **XGBoost**
-* 📈 Feature importance analysis
-* 🌐 Flask-based web application
-* 🗂️ Automated resume ranking
-
-**Tech Stack**
-
-`Python` `PyTorch` `Hugging Face Transformers` `RoBERTa` `XGBoost` `scikit-learn` `Flask` `Tesseract OCR`
+- 🔭 Currently working as a **Full-Stack Developer**, building web applications with **Flask** and **Laravel**
+- 🌱 Actively leveling up in **Machine Learning / AI**, working with Python's ML ecosystem
+- 🎯 **Goal:** Transitioning into an **AI/ML Engineer** role — combining my full-stack background with data-driven systems
+- 💬 Ask me about backend architecture, REST APIs, or my latest ML experiment
+- ⚡ Fun fact: I like shipping full-stack apps *and* training models in the same week
 
 ---
 
-## 🚗 Eric Car Trading — AI Car Assistant
+### 🛠️ Tech Stack
 
-**AI Application | Web Development | Backend | CRM**
+**Languages & Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-An automotive platform designed to improve the car-buying experience through intelligent customer assistance and dealership-oriented tools.
+**Backend & Frameworks**
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-### Planned / Implemented Capabilities
+**AI / ML**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-* 🤖 AI-powered car assistance
-* 🚘 Vehicle recommendation
-* 👤 Customer lead management
-* 🔗 Referral/agent tracking
-* 📊 Lead and sales workflow
-* ⚙️ Backend API integration
-* 🗄️ Database-driven dealership system
-
-**Tech Stack**
-
-`Python` `Flask` `Laravel` `PHP` `JavaScript` `MySQL` `SQLite` `REST API`
-
----
-
-## 📱 OCR Bill Reader & Text-to-Speech
-
-**Flutter | OCR | Accessibility | Computer Vision**
-
-A mobile application designed to help visually impaired users by scanning bills and converting detected text into speech.
-
-### Key Features
-
-* 📷 Camera-based document scanning
-* 🔎 OCR text extraction
-* 🔊 Text-to-Speech
-* 📄 Bill information recognition
-* ♿ Accessibility-focused design
-
-**Tech Stack**
-
-`Flutter` `Dart` `Tesseract OCR` `Text-to-Speech`
+**Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🏛️ Barangay Ordinance Information System
+### 🚀 Featured Projects
 
-**Web Application | Backend | Database**
+| Project | Description | Tech |
+|---|---|---|
+| **[Project Name 1](https://github.com/eptals2/REPO_NAME)** | One-line description — what it does and the problem it solves | `Flask` `Python` `scikit-learn` |
+| **[Project Name 2](https://github.com/eptals2/REPO_NAME)** | One-line description — what it does and the problem it solves | `Laravel` `PHP` `MySQL` |
+| **[ML Project Name](https://github.com/eptals2/REPO_NAME)** | One-line description — dataset, model, and result/metric | `Python` `Pandas` `TensorFlow` |
 
-A web-based information system designed to organize and provide access to barangay ordinances and related information.
-
-**Tech Stack**
-
-`PHP` `Laravel` `MySQL` `Bootstrap` `JavaScript`
-
----
-
-# 🛠️ Technical Skills
-
-### 🤖 AI / Machine Learning
-
-`Python`
-`scikit-learn`
-`XGBoost`
-`PyTorch`
-`Hugging Face Transformers`
-`RoBERTa`
-`NLP`
-`Named Entity Recognition`
-`Predictive Analytics`
-`TF-IDF`
-`Jaccard Similarity`
-`OCR`
-
-### 🐍 Programming
-
-`Python`
-`PHP`
-`JavaScript`
-`Dart`
-`SQL`
-`HTML`
-`CSS`
-
-### ⚙️ Backend & APIs
-
-`Flask`
-`Laravel`
-`REST APIs`
-`MySQL`
-`SQLite`
-`Supabase`
-
-### 🌐 Web Development
-
-`Bootstrap`
-`Vue.js`
-`Nuxt`
-`Livewire`
-`Alpine.js`
-
-### 📱 Mobile
-
-`Flutter`
-`Dart`
-
-### 🔧 Tools
-
-`Git`
-`GitHub`
-`VS Code`
-`Jupyter Notebook`
-`Label Studio`
-`Tesseract OCR`
+> 💡 *Replace the links and descriptions above with your actual repos — recruiters click through, so make sure each one has a clear README, a demo/screenshot, and a `requirements.txt` or setup instructions.*
 
 ---
 
-# 📊 What I'm Currently Learning
+### 📊 GitHub Stats
 
-I'm actively developing my skills toward becoming a **production-ready Machine Learning Engineer**.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eptals2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eptals2&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-```text
-Machine Learning
-████████████████░░░░  80%
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=eptals2&theme=tokyonight&hide_border=true" />
+</p>
 
-Python
-█████████████████░░░  85%
-
-Backend Development
-█████████████████░░░  85%
-
-NLP
-██████████████░░░░░░  70%
-
-Deep Learning
-████████████░░░░░░░░  60%
-
-MLOps / Deployment
-██████████░░░░░░░░░░  50%
-
-Cloud / Production ML
-████████░░░░░░░░░░░░  40%
-```
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eptals2&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
-# 🎯 Career Focus
+### 📈 Currently Learning
 
-I'm currently working toward opportunities in:
-
-**Machine Learning Engineering**
-**AI Engineering**
-**Python Development**
-**Backend Development**
-**NLP / AI Applications**
-**Predictive Analytics**
-
-My long-term focus is becoming an engineer who can take an ML solution from:
-
-**Data → Model → API → Application → Deployment**
-
-rather than focusing only on model training.
+- Deep Learning fundamentals & neural network architectures
+- MLOps basics — model deployment and serving (Flask APIs for ML models)
+- SQL/NoSQL for data pipelines feeding ML workflows
 
 ---
 
-# 📌 Engineering Philosophy
+<p align="center">
+  <i>Open to AI/ML Engineer opportunities — let's connect!</i>
+</p>
 
-I believe good AI/ML engineering is about more than achieving a high model score.
-
-I focus on building systems that are:
-
-* 🧩 Practical
-* 📈 Measurable
-* 🔧 Maintainable
-* 🌐 Deployable
-* 🔄 Reproducible
-* 👥 Useful to real users
-
----
-
-# 📈 GitHub Goals
-
-I'm using GitHub to document my progress as I transition deeper into AI/ML engineering.
-
-My repositories will increasingly demonstrate:
-
-* Machine learning pipelines
-* Data preprocessing
-* Feature engineering
-* Model training and evaluation
-* NLP applications
-* Computer vision
-* REST APIs for ML models
-* Model deployment
-* Dockerized applications
-* MLOps workflows
-* End-to-end AI applications
-
----
-
-# 🤝 Let's Connect
-
-I'm always interested in connecting with:
-
-* AI/ML Engineers
-* Software Engineers
-* Data Scientists
-* Recruiters
-* Developers
-* Technology communities
-
-If you're interested in **AI, Machine Learning, Python, or building real-world intelligent applications**, feel free to explore my repositories.
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Building today. Learning continuously. Engineering toward AI/ML.**
-
-`Python` • `Machine Learning` • `AI` • `Backend` • `NLP` • `Predictive Analytics`
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eptals2&color=2E9EF7&style=flat-square&label=Profile+Views" />
+</p>
