@@ -50,9 +50,9 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[AI-powered Car Dealership Website](https://github.com/eptals2/https://github.com/eptals2/AI-Powered-Car-Dealership-Website)** | An AI-powered car dealership website for Eric Car Trading | `Flask` `Python` `scikit-learn` |
-| **[Automated Resume Screening with Predictive Analytics](https://github.com/eptals2/https://github.com/eptals2/ARSwithPredictiveAnalytics)** | An automated resume screening system integrated with Predictive Analytics using Hybrid NLP and ML models | `Laravel` `PHP` `MySQL` |
-| **[Gold Scalping Bot](https://github.com/eptals2/https://github.com/eptals2/TradingBot-Gold-Scalping)** | An AI/ML model for automating GOLD scalping | `Python` `Pandas` `TensorFlow` |
+| **[AI-powered Car Dealership Website](https://github.com/eptals2/https://github.com/eptals2/AI-Powered-Car-Dealership-Website)** | An AI-powered car dealership website for Eric Car Trading | `LLM` `RAG` `AI Integration` |
+| **[Automated Resume Screening with Predictive Analytics](https://github.com/eptals2/https://github.com/eptals2/ARSwithPredictiveAnalytics)** | An automated resume screening system integrated with Predictive Analytics using Hybrid NLP and ML models | `Python` `Numpy` `Pandas` |
+| **[Gold Scalping Bot](https://github.com/eptals2/https://github.com/eptals2/TradingBot-Gold-Scalping)** | An AI/ML model for automating GOLD scalping | `Numpy` `Pandas` `Scikit-Learn` |
 | **[Mobile Bill Reader using OCR and TTS](https://github.com/eptals2/https://github.com/eptals2/Bill-Reader-with-OCR-and-TTS)** | A mobile app designed to scan bills and produce an AI audio output for partially blind persons | `OCR` `TTS` `Flutter` |
 | **[Project Sigma](https://github.com/eptals2/https://github.com/eptals2/ProjectSigma_Projects-API)** | A mobile app designed to scan bills and produce an AI audio output for partially blind persons | `Laravel` `PHP` `Nuxt` |
 ---
