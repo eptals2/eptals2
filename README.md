@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer - AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+with+Flask+%26+Laravel;Diving+deep+into+Machine+Learning;Turning+data+into+decisions;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+full-stack+apps+and+integrating+AI/ML+and+models;Diving+deep+into+Machine+Learning;Turning+data+into+decisions;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Recently working as a **Full-Stack Developer**, building web applications with **Flask** and **Laravel**
+- 🔭 Recently working as a **Full-Stack Developer**
 - 🌱 Actively leveling up in **Machine Learning / AI**, working with Python's ML ecosystem
 - 🎯 **Goal:** Transitioning into an **AI/ML Engineer** role — combining my full-stack background with data-driven systems
 - 💬 Ask me about backend architecture, REST APIs, or my latest ML experiment
