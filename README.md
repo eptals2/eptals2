@@ -52,11 +52,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[Project Name 1](https://github.com/eptals2/REPO_NAME)** | One-line description — what it does and the problem it solves | `Flask` `Python` `scikit-learn` |
-| **[Project Name 2](https://github.com/eptals2/REPO_NAME)** | One-line description — what it does and the problem it solves | `Laravel` `PHP` `MySQL` |
-| **[ML Project Name](https://github.com/eptals2/REPO_NAME)** | One-line description — dataset, model, and result/metric | `Python` `Pandas` `TensorFlow` |
-
-> 💡 *Replace the links and descriptions above with your actual repos — recruiters click through, so make sure each one has a clear README, a demo/screenshot, and a `requirements.txt` or setup instructions.*
+| **AI-powered car dealership website (https://github.com/eptals2/https://github.com/eptals2/AI-Powered-Car-Dealership-Website)** | An AI-powered car dealership website for Eric Car Trading | `Flask` `Python` `scikit-learn` |
+| **Automated Resume Screening with Predictive Analytics(https://github.com/eptals2/https://github.com/eptals2/ARSwithPredictiveAnalytics)** | One-line description — what it does and the problem it solves | `Laravel` `PHP` `MySQL` |
+| **Gold Scalping Bot(https://github.com/eptals2/https://github.com/eptals2/TradingBot-Gold-Scalping)** | One-line description — dataset, model, and result/metric | `Python` `Pandas` `TensorFlow` |
+| **Mobile Bill Reader using OCR and TTS(https://github.com/eptals2/https://github.com/eptals2/Bill-Reader-with-OCR-and-TTS)** | One-line description — dataset, model, and result/metric | `OCR` `TTS` `Flutter` |
 
 ---
 
