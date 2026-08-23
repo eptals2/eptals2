@@ -49,7 +49,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| **[AI-powered Car Dealership Website](https://www.ericcartrading.workers.dev)** | An AI-powered car dealership website for Eric Car Trading | `LLM` `RAG` `AI Integration` |
+| **[ECT Car Dealership Website](https://www.ericcartrading.workers.dev)** | An AI-powered car dealership website for Eric Car Trading | `LLM` `RAG` `AI Integration` |
 | **[Goy Real Estate](https://goy-real-estate.vercel.app)** | A demo website for Real Estate | `Lovable` `Supabase` `Typescript` |
 | **[Butuan Rentals](https://butuan-rentals.vercel.app)** | Rentals website for Butuan City, Philippines| `Node.js` `React` `Tailwind` |
 | **[Gold Scalping Bot](https://github.com/eptals2/TradingBot-Gold-Scalping)** | An AI/ML model for automating GOLD scalping | `Numpy` `Pandas` `Scikit-Learn` |
