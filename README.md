@@ -53,7 +53,7 @@
 | **[Goy Real Estate](https://goy-real-estate.vercel.app)** | A demo website for Real Estate | `Lovable` `Supabase` `Typescript` |
 | **[Butuan Rentals](https://butuan-rentals.vercel.app)** | Rentals website for Butuan City, Philippines| `Node.js` `React` `Tailwind` |
 | **[Gold Scalping Bot](https://github.com/eptals2/TradingBot-Gold-Scalping)** | An AI/ML model for automating GOLD scalping | `Numpy` `Pandas` `Scikit-Learn` |
-| **[Project Sigma ](https://github.com/evenparit-prog)** | Contibuted to a centralized construction management system for Evenpar Construction | `Laravel` `PHP` `Nuxt` |
+| **[Project Sigma ](https://github.com/evenparit-prog)** | Centralized construction management system for Evenpar Construction | `Laravel` `PHP` `Nuxt` |
 | **[Automated Resume Screening with Predictive Analytics](https://arswithpredictiveanalytics.onrender.com)** | An automated resume screening system integrated with Predictive Analytics using Hybrid NLP and ML models | `Python` `Numpy` `Pandas` |
 | **[Mobile Bill Scanner using OCR and TTS](https://github.com/eptals2/Bill-Reader-with-OCR-and-TTS)** | A mobile app designed to scan bills and produce an AI audio output for partially blind persons | `OCR` `TTS` `Flutter` |
 
