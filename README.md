@@ -59,7 +59,7 @@ My current focus is combining my full-stack development experience with AI/ML to
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
-![Nuxt3](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge\&logo=nuxt.js\&logoColor=00DC82)
+![Nuxt](https://img.shields.io/badge/Nuxt3-002E3B?style=for-the-badge\&logo=nuxt.js\&logoColor=00DC82)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge\&logo=alpinedotjs\&logoColor=black)
