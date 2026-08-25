@@ -168,7 +168,7 @@ Machine-learning-based trading experimentation project focused on analyzing gold
 
 ### 🏗️ [Project Sigma](https://github.com/evenparit-prog)
 
-Centralized construction management system designed for **Evenparit Construction**, bringing business workflows into a single web platform.
+Centralized construction management system designed for **Evenpar Construction**, bringing business workflows into a single web platform.
 
 **Tech:** `Laravel` `PHP` `Nuxt` `Vue` `MySQL`
 
