@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Ephraim </h3>
 
-<h4 align="center">Full-Stack Developer <span class="h6">since 2022<span></h4>
+<h4 align="center">Full-Stack Developer <span style="h6">since 2022<span></h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Building+full-stack+web+applications;Designing+APIs+and+backend+systems;Integrating+AI%2FML+into+real-world+applications;Working+with+NLP%2C+NER%2C+OCR+and+predictive+analytics;Turning+data+into+useful+products;Open+to+Full-Stack+%26+AI%2FML+opportunities" alt="Typing SVG" />
