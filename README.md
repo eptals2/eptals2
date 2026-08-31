@@ -22,7 +22,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** with a interest in **Artificial Intelligence and Machine Learning**.
+I'm a **Full-Stack Developer** with interest in **Artificial Intelligence and Machine Learning**.
 
 I enjoy building applications end-to-end — from **database design and backend APIs to frontend interfaces, third-party integrations, AI/ML models, and deployment**.
 
